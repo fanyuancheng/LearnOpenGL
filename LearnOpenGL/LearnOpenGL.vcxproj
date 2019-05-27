@@ -21,10 +21,12 @@
   <ItemGroup>
     <ClCompile Include="src\glad.c" />
     <ClCompile Include="src\Shader.cpp" />
+    <ClCompile Include="src\stb_image.cpp" />
     <ClCompile Include="src\window.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Shader.h" />
+    <ClInclude Include="src\stb_image.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="src\shader\shader.fs" />

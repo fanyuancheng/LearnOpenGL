@@ -15,11 +15,13 @@
     <ClCompile Include="src\Shader.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\stb_image.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Shader.h">
       <Filter>src</Filter>
     </ClInclude>
+    <ClInclude Include="src\stb_image.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="src\shader\shader.vs" />
